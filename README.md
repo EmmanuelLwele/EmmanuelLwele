@@ -1,5 +1,5 @@
 ### Hi there 👋
-[README.md](https://github.com/EmmanuelLwele/EmmanuelLwele/files/12163570/README.md)<h1 align="center">Hi 👋, I'm Sabuni Emmanuel</h1>
+[README.md](https://github.com/EmmanuelLwele/EmmanuelLwele/files/12163570/README.md)<h1 align="center">Hi 👋, I'm Lwele Emmanuel</h1>
 <h3 align="center">Software Engineer || Data Analyst || UIX Designer || AI and Machine Learning Researcher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabuniemmanuelc&label=Profile%20views&color=0e75b6&style=flat" alt="sabuniemmanuelc" /> </p>
@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m currently learning **MSC Financial Engineering**
+- 🌱 I’m currently learning **PhD  Robotics Engineering **
 
-- 👯 I’m looking to collaborate on **3D modelling and ML Project**
+- 👯 I’m looking to collaborate on **Ios, flutter and ML Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabuniemmanuelc](https://github.com/sabuniemmanuelc)
 
 - 💬 Ask me about **rectjs, Python, Java, C++ and App Development**
 
-- 📫 How to reach me **sabuni.emmanuelc@gmail.com**
+- 📫 How to reach me **lweleemmanuel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
