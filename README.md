@@ -2,7 +2,7 @@
 [README.md](https://github.com/EmmanuelLwele/EmmanuelLwele/files/12163570/README.md)<h1 align="center">Hi 👋, I'm Lwele Emmanuel</h1>
 <h3 align="center">Software Engineer || Data Analyst || UIX Designer || AI and Machine Learning Researcher.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabuniemmanuelc&label=Profile%20views&color=0e75b6&style=flat" alt="sabuniemmanuelc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanuelLwele&label=Profile%20views&color=0e75b6&style=flat" alt="Lweleemmanuel" /> </p>
 
 
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Ios, flutter and ML Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sabuniemmanuelc](https://github.com/EmmanuelLwele)
+- 👨‍💻 All of my projects are available at [https://github.com/EmmanuelLwele](https://github.com/EmmanuelLwele)
 
 - 💬 Ask me about **rectjs, Python, Java, C++ and App Development**
 
